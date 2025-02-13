@@ -1,0 +1,45 @@
+body {
+  background: rgba(219, 219, 219, 0.76);
+
+  padding-top: 0px;
+  margin: 0px auto;
+  width: 1300px;
+}
+
+h1 {
+  text-align: center;
+  margin: 0px auto;
+
+  padding-top: 10px;
+  padding-left: 50px;
+  border-radius: 100px;
+  padding-right: 50px;
+  width: 300px;
+  border-left: 100px;
+  background: rgb(15, 160, 75);
+}
+img {
+  margin: 0px auto;
+  padding-left: 145px;
+}
+
+p {
+  margin-left: 130px;
+  margin-top: 25px;
+  margin-right: 130px;
+}
+
+ul {
+  margin-left: 270px;
+  list-style: square;
+}
+
+html {
+  background-image: url(img/istockphoto-510691024-612x612.jpg);
+}
+
+.achievements {
+  background: red;
+  padding-right: 50px;
+  padding-left: 50px;
+}
